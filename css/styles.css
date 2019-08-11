@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(to right, cyan, magenta);
+}
+
+#clock {
+    position: absolute;
+    font-family: arial;
+    font-size: 100pt;
+    color: white;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
